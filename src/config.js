@@ -10,12 +10,12 @@ var config = {
   hostUI: process.env.NODE_ENV === "production" ? "https://demo.flatlogic.com" : "http://localhost",
   portUI: process.env.NODE_ENV === "production" ? "" : "3000",
   google: {
-    clientId: "592707349093-3ab6a0seutt1qpiiq8u0k3in5k7f226d.apps.googleusercontent.com",
-    clientSecret: "bLOpF3YRLnYbdVKJGTRoYkXr"
+    clientId: "[INSERT HERE]",
+    clientSecret: "[INSERT HERE]"
   },
   microsoft: {
-    clientId: "6ee67a68-19e2-4efc-8485-ba5783f1672c",
-    clientSecret: "K1?+9TM5?9-UN+pbMIx-PZQn3dKQysIM"
+    clientId: "[INSERT HERE]",
+    clientSecret: "[INSERT HERE]"
   }
 };
 
